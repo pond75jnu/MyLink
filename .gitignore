@@ -17,6 +17,7 @@ dist
 dist-ssr
 *.local
 .agents
+database/
 
 # Documentation files
 요구사항.md
