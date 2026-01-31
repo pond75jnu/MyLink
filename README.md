@@ -36,18 +36,6 @@ npm install
 
 > **RLS 정책**: 스키마에 포함된 `Allow all for anon` 정책이 자동으로 적용됩니다.
 
-### 4. 개발 서버 실행
-
-```bash
-npm run dev
-```
-
-### 5. 빌드
-
-```bash
-npm run build
-```
-
 ## 프로젝트 구조
 
 ```
