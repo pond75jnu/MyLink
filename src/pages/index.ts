@@ -1,0 +1,11 @@
+export { LoginPage } from './LoginPage';
+export { RegisterPage } from './RegisterPage';
+export { DashboardPage } from './DashboardPage';
+export { LinksPage } from './LinksPage';
+export { AddLinkPage } from './AddLinkPage';
+export { FavoritesPage } from './FavoritesPage';
+export { ArchivePage } from './ArchivePage';
+export { CategoryPage } from './CategoryPage';
+export { SettingsPage } from './SettingsPage';
+export { AdminPage } from './AdminPage';
+export { NotFoundPage } from './NotFoundPage';
